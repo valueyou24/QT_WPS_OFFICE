@@ -75,6 +75,40 @@ QT_WPS_OFFICE_autogen/timestamp: CMakeFiles/QT_WPS_OFFICE.dir/compiler_depend.ts
 	D:\pytorch\envs\pytorch\Lib\site-packages\cmake\data\bin\cmake.exe -E cmake_autogen D:/Git/QT_Projects/QT_WPS_OFFICE/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/QT_WPS_OFFICE_autogen.dir/AutogenInfo.json Debug
 	D:\pytorch\envs\pytorch\Lib\site-packages\cmake\data\bin\cmake.exe -E touch D:/Git/QT_Projects/QT_WPS_OFFICE/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/QT_WPS_OFFICE_autogen/timestamp
 
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icon.qrc
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: CMakeFiles/QT_WPS_OFFICE_autogen.dir/AutoRcc_icon_EWIEGA46WW_Info.json
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/redo.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/icon.ico
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/new.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/textColor.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/left.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/underline.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/help.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/i.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/save.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/open.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/find.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/just.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/bold.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/right.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/saveas.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/selectall.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/middle.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/size.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/undo.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/color.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/copy.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/Editor.rc
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/icon.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/image.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/close.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/paste.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/Git/QT_Projects/QT_WPS_OFFICE/icons/cut.png
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/QT/6.8.3/mingw_64/bin/rcc.exe
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp: D:/QT/6.8.3/mingw_64/bin/rcc.exe
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for icon.qrc"
+	D:\pytorch\envs\pytorch\Lib\site-packages\cmake\data\bin\cmake.exe -E cmake_autorcc D:/Git/QT_Projects/QT_WPS_OFFICE/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/QT_WPS_OFFICE_autogen.dir/AutoRcc_icon_EWIEGA46WW_Info.json Debug
+
 CMakeFiles/QT_WPS_OFFICE.dir/codegen:
 .PHONY : CMakeFiles/QT_WPS_OFFICE.dir/codegen
 
@@ -82,7 +116,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj: CMa
 CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/includes_CXX.rsp
 CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj: QT_WPS_OFFICE_autogen/mocs_compilation.cpp
 CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj"
 	D:\QT\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\QT_WPS_OFFICE.dir\QT_WPS_OFFICE_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\QT_WPS_OFFICE.dir\QT_WPS_OFFICE_autogen\mocs_compilation.cpp.obj -c D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\QT_WPS_OFFICE_autogen\mocs_compilation.cpp
 
 CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.i: cmake_force
@@ -97,7 +131,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/flags.ma
 CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/includes_CXX.rsp
 CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj: D:/Git/QT_Projects/QT_WPS_OFFICE/main.cpp
 CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj"
 	D:\QT\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj -MF CMakeFiles\QT_WPS_OFFICE.dir\main.cpp.obj.d -o CMakeFiles\QT_WPS_OFFICE.dir\main.cpp.obj -c D:\Git\QT_Projects\QT_WPS_OFFICE\main.cpp
 
 CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.i: cmake_force
@@ -112,7 +146,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/fl
 CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/includes_CXX.rsp
 CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: D:/Git/QT_Projects/QT_WPS_OFFICE/MainWindow.cpp
 CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj"
 	D:\QT\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj -MF CMakeFiles\QT_WPS_OFFICE.dir\MainWindow.cpp.obj.d -o CMakeFiles\QT_WPS_OFFICE.dir\MainWindow.cpp.obj -c D:\Git\QT_Projects\QT_WPS_OFFICE\MainWindow.cpp
 
 CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.i: cmake_force
@@ -123,11 +157,27 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.s"
 	D:\QT\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\QT_Projects\QT_WPS_OFFICE\MainWindow.cpp -o CMakeFiles\QT_WPS_OFFICE.dir\MainWindow.cpp.s
 
+CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/flags.make
+CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/includes_CXX.rsp
+CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj: QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp
+CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj: CMakeFiles/QT_WPS_OFFICE.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj"
+	D:\QT\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj -MF CMakeFiles\QT_WPS_OFFICE.dir\QT_WPS_OFFICE_autogen\EWIEGA46WW\qrc_icon.cpp.obj.d -o CMakeFiles\QT_WPS_OFFICE.dir\QT_WPS_OFFICE_autogen\EWIEGA46WW\qrc_icon.cpp.obj -c D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\QT_WPS_OFFICE_autogen\EWIEGA46WW\qrc_icon.cpp
+
+CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.i"
+	D:\QT\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\QT_WPS_OFFICE_autogen\EWIEGA46WW\qrc_icon.cpp > CMakeFiles\QT_WPS_OFFICE.dir\QT_WPS_OFFICE_autogen\EWIEGA46WW\qrc_icon.cpp.i
+
+CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.s"
+	D:\QT\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\QT_WPS_OFFICE_autogen\EWIEGA46WW\qrc_icon.cpp -o CMakeFiles\QT_WPS_OFFICE.dir\QT_WPS_OFFICE_autogen\EWIEGA46WW\qrc_icon.cpp.s
+
 # Object files for target QT_WPS_OFFICE
 QT_WPS_OFFICE_OBJECTS = \
 "CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj" \
-"CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj"
+"CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj" \
+"CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj"
 
 # External object files for target QT_WPS_OFFICE
 QT_WPS_OFFICE_EXTERNAL_OBJECTS =
@@ -135,6 +185,7 @@ QT_WPS_OFFICE_EXTERNAL_OBJECTS =
 QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj
 QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/main.cpp.obj
 QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj
+QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj
 QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/build.make
 QT_WPS_OFFICE.exe: D:/QT/6.8.3/mingw_64/lib/libQt6Widgets.a
 QT_WPS_OFFICE.exe: D:/QT/6.8.3/mingw_64/lib/libQt6Gui.a
@@ -143,7 +194,7 @@ QT_WPS_OFFICE.exe: D:/QT/6.8.3/mingw_64/lib/libQt6EntryPoint.a
 QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/linkLibs.rsp
 QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/objects1.rsp
 QT_WPS_OFFICE.exe: CMakeFiles/QT_WPS_OFFICE.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable QT_WPS_OFFICE.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable QT_WPS_OFFICE.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\QT_WPS_OFFICE.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -154,6 +205,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles\QT_WPS_OFFICE.dir\cmake_clean.cmake
 .PHONY : CMakeFiles/QT_WPS_OFFICE.dir/clean
 
+CMakeFiles/QT_WPS_OFFICE.dir/depend: QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp
 CMakeFiles/QT_WPS_OFFICE.dir/depend: QT_WPS_OFFICE_autogen/timestamp
 	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" D:\Git\QT_Projects\QT_WPS_OFFICE D:\Git\QT_Projects\QT_WPS_OFFICE D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug D:\Git\QT_Projects\QT_WPS_OFFICE\build\Desktop_Qt_6_8_3_MinGW_64_bit-Debug\CMakeFiles\QT_WPS_OFFICE.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/QT_WPS_OFFICE.dir/depend

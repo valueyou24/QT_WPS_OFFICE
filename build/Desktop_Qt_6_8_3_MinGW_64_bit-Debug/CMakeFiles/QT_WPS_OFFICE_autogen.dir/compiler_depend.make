@@ -11,6 +11,7 @@ QT_WPS_OFFICE_autogen/timestamp: D:/Git/QT_Projects/QT_WPS_OFFICE/CMakeLists.txt
   CMakeFiles/4.1.0/CMakeRCCompiler.cmake \
   CMakeFiles/4.1.0/CMakeSystem.cmake \
   QT_WPS_OFFICE_autogen/moc_predefs.h \
+  D:/Git/QT_Projects/QT_WPS_OFFICE/icon.qrc \
   D:/Git/QT_Projects/QT_WPS_OFFICE/main.cpp \
   D:/QT/6.8.3/mingw_64/include/QtCore/q20functional.h \
   D:/QT/6.8.3/mingw_64/include/QtCore/q20iterator.h \
@@ -315,85 +316,23 @@ QT_WPS_OFFICE_autogen/timestamp: D:/Git/QT_Projects/QT_WPS_OFFICE/CMakeLists.txt
   D:/QT/6.8.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
   D:/QT/6.8.3/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/bin/cmake.exe \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCXXCompiler.cmake.in \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCXXInformation.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCompilerIdDetection.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompilerSupport.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineRCCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeGenericSystem.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeMinGWFindMake.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeParseImplicitIncludeInfo.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeParseImplicitLinkInfo.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeParseLibraryArchitecture.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeRCCompiler.cmake.in \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeRCInformation.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeSystem.cmake.in \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeTestCompilerCommon.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeTestRCCompiler.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CheckCXXSourceCompiles.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CheckIncludeFileCXX.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CheckLibraryExists.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Borland-DetermineCompiler.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Cray-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Diab-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GHS-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GNU-CXX.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GNU.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IAR-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Intel-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/PGI-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Renesas-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/SCO-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/TI-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindPackageMessage.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindThreads.cmake \
@@ -401,17 +340,13 @@ QT_WPS_OFFICE_autogen/timestamp: D:/Git/QT_Projects/QT_WPS_OFFICE/CMakeLists.txt
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/GNUInstallDirs.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeInspectCXXLinker.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CheckCompilerFlag.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CheckFlagCommonConfig.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/FeatureTesting.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Linker/Windows-CXX.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU.cmake \
-  D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-Determine-CXX.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX.cmake \
   D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake \
@@ -477,6 +412,8 @@ D:/QT/6.8.3/mingw_64/include/QtCore/q20functional.h:
 
 QT_WPS_OFFICE_autogen/moc_predefs.h:
 
+D:/Git/QT_Projects/QT_WPS_OFFICE/icon.qrc:
+
 D:/QT/6.8.3/mingw_64/include/QtCore/qhashfunctions.h:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-GNU-CXX-ABI.cmake:
@@ -491,8 +428,6 @@ D:/QT/6.8.3/mingw_64/include/QtCore/q20iterator.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/q20type_traits.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/q20utility.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qfunctionpointer.h:
@@ -504,8 +439,6 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qalgorithms.h:
 D:/QT/6.8.3/mingw_64/include/QtCore/qstringview.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qanystringview.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qarraydataops.h:
 
@@ -529,8 +462,6 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qbasicatomic.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qbindingstorage.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/qdebug.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qcompare.h:
@@ -553,8 +484,6 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qchar.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/AppleClang-DetermineCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/qiterator.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qvarlengtharray.h:
@@ -563,11 +492,7 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qcompare_impl.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qiterable.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Tasking-DetermineCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/qcomparehelpers.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets-relwithdebinfo.cmake:
 
@@ -591,11 +516,7 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QSvgIconPluginTargets.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qendian.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/qflags.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/HP-CXX-DetermineCompiler.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake:
 
@@ -613,21 +534,15 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qgenericatomic.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qlatin1stringview.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-Determine-CXX.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtGui/qfontinfo.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qtversionchecks.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qglobalstatic.h:
 
-D:/QT/6.8.3/mingw_64/include/QtCore/qiodevicebase.h:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/qlogging.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/FeatureTesting.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake:
+D:/QT/6.8.3/mingw_64/include/QtCore/qiodevicebase.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qmalloc.h:
 
@@ -644,8 +559,6 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qminmax.h:
 D:/QT/6.8.3/mingw_64/include/QtCore/qnamespace.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qobject_impl.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qobjectdefs.h:
 
@@ -670,8 +583,6 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qscopeguard.h:
 D:/QT/6.8.3/mingw_64/include/QtCore/qset.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qshareddata.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeParseLibraryArchitecture.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake:
 
@@ -703,8 +614,6 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qstringfwd.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qstringlist.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeMinGWFindMake.cmake:
-
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qstringliteral.h:
@@ -725,13 +634,9 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qtconfiginclude.h:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindPackageMessage.cmake:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/OrangeC-DetermineCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/qtcore-config.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qtcoreexports.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Renesas-DetermineCompiler.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qxptype_traits.h:
 
@@ -775,8 +680,6 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfigVersionImpl.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qtypes.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/CrayClang-DetermineCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtCore/qutf8stringview.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qvariant.h:
@@ -795,8 +698,6 @@ D:/QT/6.8.3/mingw_64/include/QtGui/qpalette.h:
 
 D:/QT/6.8.3/mingw_64/include/QtGui/qfont.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/NVIDIA-DetermineCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/include/QtGui/qfontmetrics.h:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
@@ -812,8 +713,6 @@ D:/QT/6.8.3/mingw_64/include/QtGui/qkeysequence.h:
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Linker/GNU.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtGui/qpaintdevice.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeTestCXXCompiler.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtGui/qpixelformat.h:
 
@@ -843,13 +742,9 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtGui/qtguiglobal.h:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/NVHPC-DetermineCompiler.cmake:
-
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCXXInformation.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtGui/qtransform.h:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GNU-FindBinUtils.cmake:
 
 D:/QT/6.8.3/mingw_64/include/QtGui/qwindowdefs.h:
 
@@ -901,12 +796,6 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineRCCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake:
@@ -915,11 +804,7 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/ARMCC-DetermineCompiler.cmake:
-
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Diab-DetermineCompiler.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake:
 
@@ -958,8 +843,6 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicSbomQtEntityHelpers.cmake:
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/SCO-DetermineCompiler.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake:
 
@@ -1011,13 +894,9 @@ D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Pla
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Clang-DetermineCompilerInternal.cmake:
-
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersionImpl.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCXXCompiler.cmake.in:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateVersionlessAliasTargets.cmake:
 
@@ -1041,8 +920,6 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessAliasTargets.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCXXCompilerABI.cpp:
-
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginConfig.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
@@ -1050,10 +927,6 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QJpegPluginTargets-relwithdebinfo.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Borland-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginAdditionalTargetInfo.cmake:
 
@@ -1155,37 +1028,11 @@ D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/bin/cmake.exe:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeCompilerIdDetection.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeDetermineCompilerSupport.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeFindBinUtils.cmake:
-
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeGenericSystem.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeParseImplicitIncludeInfo.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeParseImplicitLinkInfo.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeDetermineLinkerId.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeRCCompiler.cmake.in:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeSystem.cmake.in:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeTestCompilerCommon.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMakeTestRCCompiler.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CheckCXXCompilerFlag.cmake:
 
@@ -1193,65 +1040,23 @@ D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Che
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CheckIncludeFileCXX.cmake:
 
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/ADSP-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/MSVC-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/ARMClang-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Cray-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindVulkan.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Embarcadero-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Fujitsu-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/GHS-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IAR-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Intel-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/Watcom-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/PGI-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/PathScale-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/TI-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/TIClang-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/XL-CXX-DetermineCompiler.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake:
-
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindThreads.cmake:
 
+D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/FindVulkan.cmake:
+
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake:
-
-D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CMakeInspectCXXLinker.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CheckFlagCommonConfig.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Linker/Windows-GNU-CXX.cmake:
+
+D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake:
 

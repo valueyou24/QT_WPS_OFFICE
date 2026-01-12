@@ -223,6 +223,30 @@ MainWindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\QT_WPS_OFFICE.dir\build.make CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.s
 .PHONY : MainWindow.cpp.s
 
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.obj: QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj
+.PHONY : QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.obj
+
+# target to build an object file
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QT_WPS_OFFICE.dir\build.make CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj
+.PHONY : QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.obj
+
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.i: QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.i
+.PHONY : QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.i
+
+# target to preprocess a source file
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QT_WPS_OFFICE.dir\build.make CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.i
+.PHONY : QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.i
+
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.s: QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.s
+.PHONY : QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.s
+
+# target to generate assembly for a file
+QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\QT_WPS_OFFICE.dir\build.make CMakeFiles/QT_WPS_OFFICE.dir/QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.s
+.PHONY : QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.cpp.s
+
 QT_WPS_OFFICE_autogen/mocs_compilation.obj: QT_WPS_OFFICE_autogen/mocs_compilation.cpp.obj
 .PHONY : QT_WPS_OFFICE_autogen/mocs_compilation.obj
 
@@ -289,6 +313,9 @@ help:
 	@echo ... MainWindow.obj
 	@echo ... MainWindow.i
 	@echo ... MainWindow.s
+	@echo ... QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.obj
+	@echo ... QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.i
+	@echo ... QT_WPS_OFFICE_autogen/EWIEGA46WW/qrc_icon.s
 	@echo ... QT_WPS_OFFICE_autogen/mocs_compilation.obj
 	@echo ... QT_WPS_OFFICE_autogen/mocs_compilation.i
 	@echo ... QT_WPS_OFFICE_autogen/mocs_compilation.s

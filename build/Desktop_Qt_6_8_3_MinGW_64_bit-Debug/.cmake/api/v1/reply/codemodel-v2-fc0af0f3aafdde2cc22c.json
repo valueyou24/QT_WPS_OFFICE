@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c21a5ade6f8b60c14407.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT_WPS_OFFICE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_WPS_OFFICE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_WPS_OFFICE-Debug-ead91d2a54ec7d509b29.json",
+					"name" : "QT_WPS_OFFICE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_WPS_OFFICE_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_WPS_OFFICE_autogen-Debug-4e568929072ea4b62e0f.json",
+					"name" : "QT_WPS_OFFICE_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT_WPS_OFFICE_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT_WPS_OFFICE_autogen_timestamp_deps-Debug-83798fb986b8e4c7d930.json",
+					"name" : "QT_WPS_OFFICE_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Git/QT_Projects/QT_WPS_OFFICE/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+		"source" : "D:/Git/QT_Projects/QT_WPS_OFFICE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

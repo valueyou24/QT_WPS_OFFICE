@@ -376,6 +376,8 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: \
  D:/Git/QT_Projects/QT_WPS_OFFICE/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/QT_WPS_OFFICE_autogen/include/ui_MainWindow.h \
  D:/QT/6.8.3/mingw_64/include/QtCore/QVariant \
  D:/QT/6.8.3/mingw_64/include/QtCore/qvariant.h \
+ D:/QT/6.8.3/mingw_64/include/QtGui/QAction \
+ D:/QT/6.8.3/mingw_64/include/QtGui/qaction.h \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/QApplication \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/qapplication.h \
  D:/QT/6.8.3/mingw_64/include/QtCore/qcoreapplication.h \
@@ -390,10 +392,81 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: \
  D:/QT/6.8.3/mingw_64/include/QtCore/qlocale.h \
  D:/QT/6.8.3/mingw_64/include/QtGui/qguiapplication_platform.h \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/QMainWindow \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/QMenu \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qmenu.h \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/QMenuBar \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/qmenubar.h \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/qmenu.h \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/QStatusBar \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/qstatusbar.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/QTextEdit \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qtextedit.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qabstractscrollarea.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qframe.h \
+ D:/QT/6.8.3/mingw_64/include/QtGui/qtextdocument.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qurl.h \
+ D:/QT/6.8.3/mingw_64/include/QtGui/qtextoption.h \
+ D:/QT/6.8.3/mingw_64/include/QtGui/qtextcursor.h \
+ D:/QT/6.8.3/mingw_64/include/QtGui/qtextformat.h \
+ D:/QT/6.8.3/mingw_64/include/QtGui/qpen.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/QToolBar \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qtoolbar.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/QVBoxLayout \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qboxlayout.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qlayout.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qlayoutitem.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qboxlayout.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qgridlayout.h \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/QWidget \
- D:/QT/6.8.3/mingw_64/include/QtWidgets/qwidget.h
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qwidget.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/QFileDialog \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qfiledialog.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qdir.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qdirlisting.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qfiledevice.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qiodevice.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qdatetime.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qcalendar.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qfile.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/filesystem \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_fwd.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_path.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cwctype \
+ D:/QT/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_base.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets.tcc \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/codecvt.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_facets_nonio.tcc \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/locale_conv.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iomanip \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/quoted_string.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/sstream \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/istream \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ios \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/basic_ios.tcc \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/ostream \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/ostream.tcc \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/istream.tcc \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/sstream.tcc \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/codecvt \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_dir.h \
+ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/fs_ops.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qfileinfo.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qtimezone.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qdialog.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/QStandardPaths \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qstandardpaths.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/QFile \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qfile.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/QDir \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qdir.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/QMessageBox \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qmessagebox.h \
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qdialogbuttonbox.h
