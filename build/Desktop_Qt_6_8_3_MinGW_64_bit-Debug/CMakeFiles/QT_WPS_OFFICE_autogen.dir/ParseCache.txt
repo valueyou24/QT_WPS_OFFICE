@@ -157,6 +157,6 @@ D:/Git/QT_Projects/QT_WPS_OFFICE/MainWindow.h
  mdp:D:/QT/6.8.3/mingw_64/include/QtWidgets/qtwidgetsexports.h
  mdp:D:/QT/6.8.3/mingw_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:D:/QT/6.8.3/mingw_64/include/QtWidgets/qwidget.h
-D:/Git/QT_Projects/QT_WPS_OFFICE/main.cpp
 D:/Git/QT_Projects/QT_WPS_OFFICE/MainWindow.cpp
  uic:./ui_MainWindow.h
+D:/Git/QT_Projects/QT_WPS_OFFICE/main.cpp

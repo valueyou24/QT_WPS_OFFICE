@@ -5,6 +5,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: D:/Git/QT_Projects/QT_WPS_OFFIC
   QT_WPS_OFFICE_autogen/include/ui_MainWindow.h \
   D:/QT/6.8.3/mingw_64/include/QtCore/QDir \
   D:/QT/6.8.3/mingw_64/include/QtCore/QFile \
+  D:/QT/6.8.3/mingw_64/include/QtCore/QSaveFile \
   D:/QT/6.8.3/mingw_64/include/QtCore/QStandardPaths \
   D:/QT/6.8.3/mingw_64/include/QtCore/QVariant \
   D:/QT/6.8.3/mingw_64/include/QtCore/q20functional.h \
@@ -95,6 +96,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: D:/Git/QT_Projects/QT_WPS_OFFIC
   D:/QT/6.8.3/mingw_64/include/QtCore/qprocessordetection.h \
   D:/QT/6.8.3/mingw_64/include/QtCore/qrect.h \
   D:/QT/6.8.3/mingw_64/include/QtCore/qrefcount.h \
+  D:/QT/6.8.3/mingw_64/include/QtCore/qsavefile.h \
   D:/QT/6.8.3/mingw_64/include/QtCore/qscopedpointer.h \
   D:/QT/6.8.3/mingw_64/include/QtCore/qscopeguard.h \
   D:/QT/6.8.3/mingw_64/include/QtCore/qset.h \
@@ -1607,15 +1609,23 @@ D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/CMa
 
 D:/QT/6.8.3/mingw_64/include/QtCore/QStandardPaths:
 
+D:/QT/6.8.3/mingw_64/include/QtGui/qicon.h:
+
+D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
+
+D:/QT/6.8.3/mingw_64/include/QtCore/qcoreapplication.h:
+
+D:/QT/6.8.3/mingw_64/include/QtCore/qatomic.h:
+
+D:/QT/6.8.3/mingw_64/include/QtCore/QSaveFile:
+
+D:/QT/6.8.3/mingw_64/include/QtWidgets/QVBoxLayout:
+
 QT_WPS_OFFICE_autogen/include/ui_MainWindow.h:
 
 D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/string_view.tcc:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/QDir:
-
-D:/QT/6.8.3/mingw_64/include/QtCore/qhash.h:
-
-D:/QT/6.8.3/mingw_64/include/QtCore/q20iterator.h:
 
 D:/pytorch/envs/pytorch/Lib/site-packages/cmake/data/share/cmake-4.1/Modules/Platform/Windows-GNU.cmake:
 
@@ -1630,6 +1640,8 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qobjectdefs_impl.h:
 D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stringfwd.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/QVariant:
+
+D:/QT/6.8.3/mingw_64/include/QtCore/q20iterator.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qtconfigmacros.h:
 
@@ -1676,14 +1688,6 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qfile.h:
 D:/QT/6.8.3/mingw_64/include/QtCore/qmetacontainer.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qassert.h:
-
-D:/QT/6.8.3/mingw_64/include/QtGui/qicon.h:
-
-D:/QT/6.8.3/mingw_64/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
-
-D:/QT/6.8.3/mingw_64/include/QtCore/qcoreapplication.h:
-
-D:/QT/6.8.3/mingw_64/include/QtCore/qatomic.h:
 
 D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/ctype_inline.h:
 
@@ -1841,6 +1845,8 @@ D:/QT/6.8.3/mingw_64/include/QtGui/qfontinfo.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qglobalstatic.h:
 
+D:/QT/6.8.3/mingw_64/include/QtCore/qhash.h:
+
 D:/QT/6.8.3/mingw_64/include/QtCore/qhashfunctions.h:
 
 D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h:
@@ -1922,6 +1928,8 @@ D:/QT/6.8.3/mingw_64/include/QtCore/qprocessordetection.h:
 D:/QT/6.8.3/mingw_64/include/QtGui/qtextformat.h:
 
 D:/QT/6.8.3/mingw_64/include/QtCore/qrefcount.h:
+
+D:/QT/6.8.3/mingw_64/include/QtCore/qsavefile.h:
 
 D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/enable_special_members.h:
 
@@ -2200,8 +2208,6 @@ D:/QT/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/locale:
 D:/QT/6.8.3/mingw_64/include/QtWidgets/QToolBar:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake:
-
-D:/QT/6.8.3/mingw_64/include/QtWidgets/QVBoxLayout:
 
 D:/QT/6.8.3/mingw_64/include/QtWidgets/QWidget:
 
@@ -2711,9 +2717,9 @@ D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake:
 
-D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
-
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake:
+
+D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake:
 
 D:/QT/6.8.3/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake:
 

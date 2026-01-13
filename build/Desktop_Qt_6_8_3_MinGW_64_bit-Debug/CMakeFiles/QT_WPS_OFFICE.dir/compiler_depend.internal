@@ -6,6 +6,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj
  D:/Git/QT_Projects/QT_WPS_OFFICE/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/QT_WPS_OFFICE_autogen/include/ui_MainWindow.h
  D:/QT/6.8.3/mingw_64/include/QtCore/QDir
  D:/QT/6.8.3/mingw_64/include/QtCore/QFile
+ D:/QT/6.8.3/mingw_64/include/QtCore/QSaveFile
  D:/QT/6.8.3/mingw_64/include/QtCore/QStandardPaths
  D:/QT/6.8.3/mingw_64/include/QtCore/QVariant
  D:/QT/6.8.3/mingw_64/include/QtCore/q20functional.h
@@ -96,6 +97,7 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj
  D:/QT/6.8.3/mingw_64/include/QtCore/qprocessordetection.h
  D:/QT/6.8.3/mingw_64/include/QtCore/qrect.h
  D:/QT/6.8.3/mingw_64/include/QtCore/qrefcount.h
+ D:/QT/6.8.3/mingw_64/include/QtCore/qsavefile.h
  D:/QT/6.8.3/mingw_64/include/QtCore/qscopedpointer.h
  D:/QT/6.8.3/mingw_64/include/QtCore/qscopeguard.h
  D:/QT/6.8.3/mingw_64/include/QtCore/qset.h

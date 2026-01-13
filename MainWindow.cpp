@@ -5,6 +5,7 @@
 #include<QFile>
 #include<QDir>
 #include<QMessageBox>
+#include<QSaveFile>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -22,6 +23,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     this->statusBar()->showMessage("准备就绪",3000);
 
+    connect(ui->textEdit->document(),&QTextDocument::contentsChanged,this,&MainWindow::documentWasModified);
 }
 
 MainWindow::~MainWindow()
@@ -45,17 +47,44 @@ void MainWindow::openFile()
 
 void MainWindow::newFile()
 {
+    if(!maybeSave()) return;
 
+    ui->textEdit->clear();
+    setCurrentFileName(QString());
+
+    this->statusBar()->showMessage("新建成功",2000);
 }
+
+
 
 bool MainWindow::saveFile()
 {
-    return true;
+    if(this->cur_file_name.isEmpty())
+    {//文件名为空，说明为新建的文件，直接另存为就行
+        return saveAsFile();
+    }
+    else
+    {
+        return save(this->cur_file_name);
+    }
 }
 
 bool MainWindow::saveAsFile()
 {
-    return true;
+    QFileDialog dialog(this);
+    dialog.setWindowModality(Qt::WindowModal);
+    dialog.setAcceptMode(QFileDialog::AcceptSave);
+    dialog.setDirectory(QStandardPaths::standardLocations(QStandardPaths::DocumentsLocation).first());
+
+    if(dialog.exec() != QDialog::Accepted) return false;
+
+
+    return save(dialog.selectedFiles().first());
+}
+
+void MainWindow::documentWasModified()
+{
+    this->setWindowModified(ui->textEdit->document()->isModified());
 }
 
 void MainWindow::initAction()
@@ -119,6 +148,26 @@ void MainWindow::setCurrentFileName(const QString &fname)
     }
 }
 
+bool MainWindow::save(const QString &path)
+{
+    QSaveFile file(path);
+    if(file.open(QSaveFile::WriteOnly|QSaveFile::Text))
+    {
+        QTextStream out(&file);
+        out<<ui->textEdit->toHtml();
+
+        if(!file.commit())
+        {
+            QMessageBox::critical(this,"错误","保存失败");
+                return false;
+        }
+    }
+    setCurrentFileName(path);
+    this->statusBar()->showMessage("保存成功",3000);
+
+    return true;
+}
+
 void MainWindow::on_file_menu_triggered(QAction *action)
 {
     WETActionType type = static_cast<WETActionType>(action->data().toInt());
@@ -127,6 +176,15 @@ void MainWindow::on_file_menu_triggered(QAction *action)
     {
     case WETActionType::OpenFile:
         openFile();
+        break;
+    case WETActionType::SaveFile:
+        saveFile();
+        break;
+    case WETActionType::SaveAsFile:
+        saveAsFile();
+        break;
+    case WETActionType::NewFile:
+        newFile();
         break;
     default:
         break;

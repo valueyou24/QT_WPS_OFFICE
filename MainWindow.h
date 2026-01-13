@@ -49,12 +49,14 @@ public slots:
     void newFile();
     bool saveFile();
     bool saveAsFile();
+    void documentWasModified();
 
 private:
     void initAction();
     bool maybeSave();
     void loadFile(QString path);
     void setCurrentFileName(const QString& fname);
+    bool save(const QString &path);
 
 private slots:
     void on_file_menu_triggered(QAction* action);

@@ -469,4 +469,6 @@ CMakeFiles/QT_WPS_OFFICE.dir/MainWindow.cpp.obj: \
  D:/QT/6.8.3/mingw_64/include/QtCore/qdir.h \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/QMessageBox \
  D:/QT/6.8.3/mingw_64/include/QtWidgets/qmessagebox.h \
- D:/QT/6.8.3/mingw_64/include/QtWidgets/qdialogbuttonbox.h
+ D:/QT/6.8.3/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
+ D:/QT/6.8.3/mingw_64/include/QtCore/QSaveFile \
+ D:/QT/6.8.3/mingw_64/include/QtCore/qsavefile.h
